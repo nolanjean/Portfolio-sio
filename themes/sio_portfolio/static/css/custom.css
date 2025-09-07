@@ -190,7 +190,6 @@ Couleur des éléments de navigations :
   color: #222; /* tu mets la couleur que tu veux */
 }
 
-
 /* Animations */
 @keyframes fadeInUp {
   from {
@@ -312,3 +311,21 @@ h1 {
     transform: translateY(0);
   }
 }
+
+/* Animation fond d'écran */
+
+body {
+  margin: 0;
+  height: 100vh;
+  background: linear-gradient(120deg, #ff00cc, #2afadf, #ffb700);
+  background-size: 300% 300%;
+  animation: neonSmoke 15s ease infinite;
+}
+
+@keyframes neonSmoke {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+
