@@ -15,6 +15,6 @@ Par la suite, je me suis orienté vers la voie technologique **STMG**, spéciali
 Durant cette période, j’ai également eu l’opportunité de participer à une découverte d’entreprise à **Rungis**, expérience qui a servi de support à un oral.  
 Cette immersion m’a offert un premier contact concret avec le monde professionnel.  
 
-## 2024 -- 2025  
+## 2024 – 2025  
 Après l’obtention de mon baccalauréat, je m’orientais initialement vers un **BUT MMI**. Cependant, après m’être davantage renseigné, j’ai finalement choisi le **BTS SIO**.  
 Ce choix s’explique principalement par la spécialisation qu’offre le BTS dès la première année, contrairement au BUT qui reste plus généraliste au départ.  
