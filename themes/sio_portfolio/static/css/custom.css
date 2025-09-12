@@ -110,8 +110,13 @@ Couleur des éléments de navigations :
 
 .navbar-nav .nav-item .active {
     color: var(--nav-link-active);
-  }
+}
 
+.navbar-nav {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
 
 .dropdown-item {
     font-weight: bold;
@@ -250,6 +255,7 @@ body{
 /* Texte standard */
 body p,
 body li,
+body h2,
 body span {
   font-family: 'Fira Sans', sans-serif;
   color: white;
