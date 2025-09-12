@@ -6,18 +6,18 @@ Title: Stage SIO1
 > - **Date début :** 19/06/2025
 > - **Date fin :** 27/07/2025
 >
-> **Entreprise :** Olevia
+> <u>**Entreprise :** **Olevia**</u>
 
 
 
 # Présentation de l'entreprise/société :
-Olevia est une jeune entreprise crée par des français. Sont domaine d'activité étant la cosmétique, elle exporte sont influence dans la région île de france depuis peu.
+**Olevia** est une jeune entreprise crée par des français. Sont domaine d'activité étant la cosmétique, elle exporte sont influence dans la région île de france depuis peu.
 
 
 # Missions & tâches réalisés : 
 
 
->  **Mission 1 : Réaliser un suivis de stock**
+>  <u>**Mission 1 : Réaliser un suivis de stock** - (2 semaine)</u>
 
 -Réalisation d'une page en HTML/CSS pour le contenue de la page 
 
@@ -31,7 +31,7 @@ Olevia est une jeune entreprise crée par des français. Sont domaine d'activit�
 
 
 
->  **Mission 2 : Migrée un site vers WordPress**
+> <u> **Mission 2 : Migrée un site vers WordPress** - (4 semaine)</u>
 
 -Ajout des conditions de paiement sur WordPress 
 
